@@ -4,7 +4,7 @@ Latest version `1.10.4.4`
 
 #### Content
   - [Prizm Engine](./PrizmEngine.jar)
-    - Prizm Node P2P Server (default port `9976`)
+    - Prizm Node P2P Server (run on default port `9976`)
       - [API Documentation](http://blockchain.prizm.space/api-doc/PRIZM_API.html)
   - [Prizm Node Database](./prizm_db)
   - [Prizm Node UI Dashboard App](./html/ui)
