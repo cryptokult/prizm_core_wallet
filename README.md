@@ -1,5 +1,7 @@
 ### Prizm Node
 
+Latest version `1.10.4.4`
+
 #### Content
   - [Prizm Engine](./PrizmEngine.jar)
     - Prizm Node P2P Server
