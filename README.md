@@ -13,7 +13,7 @@ Latest version `1.10.4.4`
 #### Prizm Node alias
 `prizm-node`, `prizm-dist`, `prizm-core-wallet`
 
-Download Linux versions from original hosting - [tech.prizm.space](http://tech.prizm.space/)
+#### Download Linux versions from original hosting - [tech.prizm.space](http://tech.prizm.space/)
 - ...
 - [prizm-dist-1.10.4.2-linux.tgz](http://tech.prizm.space/files/prizm-dist-1.10.4.2-linux.tgz)
 - [prizm-dist-1.10.4.4-linux.tgz](http://tech.prizm.space/files/prizm-dist-1.10.4.4-linux.tgz)
