@@ -1,3 +1,4 @@
 *.properties
 /logs/
 /prizm_db/
+prizm.default.ks
